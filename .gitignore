@@ -94,3 +94,7 @@ conanbuildinfo.txt
 *.log
 *.tlog
 *.lastbuildstate
+
+
+#custom
+token.txt
